@@ -55,3 +55,8 @@ body{
     background-color: #afa642;
     letter-spacing: 2;
 }
+
+.cust_img{
+    display: block;
+    max-width: 50%;
+}
