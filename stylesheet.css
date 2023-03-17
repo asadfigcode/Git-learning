@@ -55,3 +55,9 @@ body{
     background-color: #afa642;
     letter-spacing: 2;
 }
+
+img {
+    width: 50%;
+    margin-inline: auto;
+    display: block;
+  }
